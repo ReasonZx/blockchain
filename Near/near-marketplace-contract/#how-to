@@ -1,0 +1,19 @@
+1. Compile the contract
+
+$yarn asb
+
+It will go to ./build/release/near-marketplace-contract.wasm
+
+
+2. Deploy the contract
+
+$near deploy --accountId=marketplace.reasonzx.testnet --wasmFile=build/release/near-marketplace-contract.wasm
+
+
+3. Interacting with the contract
+
+$near call marketplace.reasonzx.testnet setProduct '{"id": "0", "productName": "tea"}' --accountId=reasonzx.testnet
+$near view marketplace.reasonzx.testnet getProduct '{"id": "0"}'
+
+
+4. *on going (point 7.1)*
