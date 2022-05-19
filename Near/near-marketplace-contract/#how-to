@@ -16,4 +16,13 @@ $near call marketplace.reasonzx.testnet setProduct '{"id": "0", "productName": "
 $near view marketplace.reasonzx.testnet getProduct '{"id": "0"}'
 
 
-4. *on going (point 7.1)*
+4. Redeploy the contract
+$near deploy --accountId=marketplace.reasonzx.testnet --wasmFile=build/release/near-marketplace-contract.wasm
+
+
+5. Create a sub account
+$near create-account buyeraccount.reasonzx.testnet --masterAccount reasonzx.testnet --initialBalance 6
+
+
+6. Call contract with token transfer
+near call mycontract.myaccount.testnet buyProduct '{"productId": "0"}' --depositYocto=1000000000000000000000000 --accountId=buyeraccount.myaccount.testnet
