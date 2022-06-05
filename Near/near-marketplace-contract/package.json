@@ -6,5 +6,8 @@
   "license": "MIT",
   "devDependencies": {
     "near-sdk-as": "^3.2.3"
+  },
+  "dependencies": {
+    "tar": "^6.1.11"
   }
 }
