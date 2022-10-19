@@ -26,3 +26,4 @@ $near create-account buyeraccount.reasonzx.testnet --masterAccount reasonzx.test
 
 6. Call contract with token transfer
 near call mycontract.myaccount.testnet buyProduct '{"productId": "0"}' --depositYocto=1000000000000000000000000 --accountId=buyeraccount.myaccount.testnet
+
