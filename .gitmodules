@@ -1,3 +1,6 @@
 [submodule "Near/NearMarketplaceDapp"]
 	path = Near/NearMarketplaceDapp
 	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
+[submodule "Near/NearMarketPlaceDapp"]
+	path = Near/NearMarketPlaceDapp
+	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
