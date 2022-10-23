@@ -1,0 +1,6 @@
+[submodule "Near/near-marketplace-contract/near-marketplace/--force"]
+	path = Near/near-marketplace-contract/near-marketplace/--force
+	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
+[submodule "Near/near-marketplace-contract/NearMarketplaceDapp"]
+	path = Near/near-marketplace-contract/NearMarketplaceDapp
+	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
