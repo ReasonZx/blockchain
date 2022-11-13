@@ -4,3 +4,12 @@
 [submodule "Near/NearMarketPlaceDapp"]
 	path = Near/NearMarketPlaceDapp
 	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
+[submodule "Ethereum/Web3SimpleStorage"]
+	path = Ethereum/Web3SimpleStorage
+	url = https://github.com/ReasonZx/Web3SimpleStorage.git
+[submodule "Ethereum/FundMeEth"]
+	path = Ethereum/FundMeEth
+	url = https://github.com/ReasonZx/FundMeEth.git
+[submodule "Ethereum/BrownieSimpleStorage"]
+	path = Ethereum/BrownieSimpleStorage
+	url = https://github.com/ReasonZx/BrownieSimpleStorage.git
