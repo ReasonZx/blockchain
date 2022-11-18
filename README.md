@@ -1,10 +1,10 @@
 # Blockchain projects
 
 ## - Ethereum blockchain:
-- [Brownie Simple Storage](Ethereum/BrownieSimpleStorage/README.md)
-- [Fund me Eth](Ethereum/FundMeEth/README.md)
-- [Web 3 Simple Storage](Ethereum/Web3SimpleStorage/readme.md)
+- [Brownie Simple Storage](https://github.com/ReasonZx/BrownieSimpleStorage)
+- [Fund me Eth](https://github.com/ReasonZx/FundMeEth)
+- [Web 3 Simple Storage](https://github.com/ReasonZx/Web3SimpleStorage)
 
 
 ## - Near blockchain
-- [Near Marketplace](Near/NearMarketPlaceDapp/README.md)
+- [Near Marketplace](https://github.com/ReasonZx/NearMarketPlaceDapp)
