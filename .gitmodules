@@ -13,3 +13,6 @@
 [submodule "Ethereum/BrownieSimpleStorage"]
 	path = Ethereum/BrownieSimpleStorage
 	url = https://github.com/ReasonZx/BrownieSimpleStorage.git
+[submodule "Ethereum/LotterySmartContract"]
+	path = Ethereum/LotterySmartContract
+	url = https://github.com/ReasonZx/Lottery-smart-contract.git
