@@ -16,3 +16,9 @@
 [submodule "Ethereum/LotterySmartContract"]
 	path = Ethereum/LotterySmartContract
 	url = https://github.com/ReasonZx/Lottery-smart-contract.git
+[submodule "Ethereum/erc20"]
+	path = Ethereum/erc20
+	url = https://github.com/ReasonZx/erc20.git
+[submodule "Ethereum/aave"]
+	path = Ethereum/aave
+	url = https://github.com/ReasonZx/aave-interactions.git
