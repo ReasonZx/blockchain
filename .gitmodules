@@ -22,3 +22,6 @@
 [submodule "Ethereum/aave"]
 	path = Ethereum/aave
 	url = https://github.com/ReasonZx/aave-interactions.git
+[submodule "Ethereum/aave-defi"]
+	path = Ethereum/aave-defi
+	url = https://github.com/ReasonZx/aave-interactions.git
