@@ -6,6 +6,7 @@
 - [Fund me Eth](https://github.com/ReasonZx/FundMeEth)
 - [Lottery](https://github.com/ReasonZx/Lottery-smart-contract.git)
 - [Erc-20](https://github.com/ReasonZx/erc20.git)
+- [Defi (aave)](https://github.com/ReasonZx/aave-interactions)
 
 
 ## - Near blockchain
@@ -28,3 +29,5 @@
 - [Erc-20](https://github.com/ReasonZx/erc20.git)
 ## How to get a random number
 - [Lottery (use vrfCoordinator)](https://github.com/ReasonZx/Lottery-smart-contract.git)
+## How to interact with an existing SC (through interfaces)
+- [Weth SC](https://github.com/ReasonZx/aave-interactions)
