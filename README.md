@@ -16,12 +16,12 @@
 
 
 
-# References
+# Index by How-to's
 
 ## How to create and deploy a SC
 - [Hardcore way](https://github.com/ReasonZx/Web3SimpleStorage)
 - [Using brownie](https://github.com/ReasonZx/BrownieSimpleStorage)
-## How to interact with a deployed SC
+## How to interact with a self-deployed SC
 - [Fund me Eth - scripts folder](https://github.com/ReasonZx/FundMeEth)
 ## How to create a mainnet fork
 - [Lottery ReadMe.md](https://github.com/ReasonZx/Lottery-smart-contract.git)
