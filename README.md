@@ -7,7 +7,7 @@
 - [Lottery](https://github.com/ReasonZx/Lottery-smart-contract.git)
 - [Erc-20](https://github.com/ReasonZx/erc20.git)
 - [Defi (aave)](https://github.com/ReasonZx/aave-interactions)
-
+- [NFTs](https://github.com/ReasonZx/nfts)
 
 ## - Near blockchain
 - [Near Marketplace](https://github.com/ReasonZx/NearMarketPlaceDapp)
@@ -31,3 +31,9 @@
 - [Lottery (use vrfCoordinator)](https://github.com/ReasonZx/Lottery-smart-contract.git)
 ## How to interact with an existing SC (through interfaces)
 - [Weth SC](https://github.com/ReasonZx/aave-interactions)
+## How to create NFTs
+- [simpleNFT](https://github.com/ReasonZx/nfts)
+## How to store data in a decentralized way
+- [advancedNFT](https://github.com/ReasonZx/nfts)
+
+  
