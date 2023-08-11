@@ -28,3 +28,6 @@
 [submodule "Ethereum/nfts"]
 	path = Ethereum/nfts
 	url = https://github.com/ReasonZx/nfts.git
+[submodule "Ethereum/nft-mix-patrick"]
+	path = Ethereum/nft-mix-patrick
+	url = https://github.com/ReasonZx/nft-mix-sepolia.git
