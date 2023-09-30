@@ -34,3 +34,6 @@
 [submodule "Ethereum/upgradeSC"]
 	path = Ethereum/upgradeSC
 	url = https://github.com/ReasonZx/upgradeSC.git
+[submodule "Ethereum/nft-mix-sepolia"]
+	path = Ethereum/nft-mix-sepolia
+	url = https://github.com/ReasonZx/nft-mix-sepolia.git
