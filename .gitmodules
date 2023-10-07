@@ -37,3 +37,6 @@
 [submodule "Ethereum/nft-mix-sepolia"]
 	path = Ethereum/nft-mix-sepolia
 	url = https://github.com/ReasonZx/nft-mix-sepolia.git
+[submodule "Ethereum/fullStackDapp"]
+	path = Ethereum/fullStackDapp
+	url = https://github.com/ReasonZx/fullStackDapp.git
