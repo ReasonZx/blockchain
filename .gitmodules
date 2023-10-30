@@ -1,42 +1,55 @@
 [submodule "Near/NearMarketplaceDapp"]
 	path = Near/NearMarketplaceDapp
 	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
+	branch = main
 [submodule "Near/NearMarketPlaceDapp"]
 	path = Near/NearMarketPlaceDapp
 	url = https://github.com/ReasonZx/NearMarketplaceDapp.git
+	branch = main
 [submodule "Ethereum/Web3SimpleStorage"]
 	path = Ethereum/Web3SimpleStorage
 	url = https://github.com/ReasonZx/Web3SimpleStorage.git
+	branch = main
 [submodule "Ethereum/FundMeEth"]
 	path = Ethereum/FundMeEth
 	url = https://github.com/ReasonZx/FundMeEth.git
+	branch = main
 [submodule "Ethereum/BrownieSimpleStorage"]
 	path = Ethereum/BrownieSimpleStorage
 	url = https://github.com/ReasonZx/BrownieSimpleStorage.git
+	branch = main
 [submodule "Ethereum/LotterySmartContract"]
 	path = Ethereum/LotterySmartContract
 	url = https://github.com/ReasonZx/Lottery-smart-contract.git
+	branch = main
 [submodule "Ethereum/erc20"]
 	path = Ethereum/erc20
 	url = https://github.com/ReasonZx/erc20.git
+	branch = main
 [submodule "Ethereum/aave"]
 	path = Ethereum/aave
 	url = https://github.com/ReasonZx/aave-interactions.git
+	branch = main
 [submodule "Ethereum/aave-defi"]
 	path = Ethereum/aave-defi
 	url = https://github.com/ReasonZx/aave-interactions.git
+	branch = main
 [submodule "Ethereum/nfts"]
 	path = Ethereum/nfts
 	url = https://github.com/ReasonZx/nfts.git
+	branch = main
 [submodule "Ethereum/nft-mix-patrick"]
 	path = Ethereum/nft-mix-patrick
 	url = https://github.com/ReasonZx/nft-mix-sepolia.git
 [submodule "Ethereum/upgradeSC"]
 	path = Ethereum/upgradeSC
 	url = https://github.com/ReasonZx/upgradeSC.git
+	branch = main
 [submodule "Ethereum/nft-mix-sepolia"]
 	path = Ethereum/nft-mix-sepolia
 	url = https://github.com/ReasonZx/nft-mix-sepolia.git
+	branch = main
 [submodule "Ethereum/fullStackDapp"]
 	path = Ethereum/fullStackDapp
 	url = https://github.com/ReasonZx/fullStackDapp.git
+	branch = main
