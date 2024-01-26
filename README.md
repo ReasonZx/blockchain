@@ -1,16 +1,16 @@
 # Blockchain projects
 
 ## - Ethereum blockchain:
-- [Web 3 Simple Storage](https://github.com/ReasonZx/Web3SimpleStorage)
-- [Brownie Simple Storage](https://github.com/ReasonZx/BrownieSimpleStorage)
-- [Fund me Eth](https://github.com/ReasonZx/FundMeEth)
-- [Lottery](https://github.com/ReasonZx/Lottery-smart-contract.git)
-- [Erc-20](https://github.com/ReasonZx/erc20.git)
-- [Defi (aave)](https://github.com/ReasonZx/aave-interactions)
-- [NFTs](https://github.com/ReasonZx/nfts)
+- [Web 3 Simple Storage](./Ethereum/Web3SimpleStorage/readme.md)
+- [Brownie Simple Storage](./Ethereum/BrownieSimpleStorage/README.md)
+- [Fund me Eth](./Ethereum/FundMeEth/README.md)
+- [Lottery](./Ethereum/LotterySmartContract/README.md)
+- [Erc-20](./Ethereum/erc20/ReadMe.md)
+- [Defi (aave)](./Ethereum/aave-defi/README.md)
+- [NFTs](./Ethereum/nfts/README.md)
 
 ## - Near blockchain
-- [Near Marketplace](https://github.com/ReasonZx/NearMarketPlaceDapp)
+- [Near Marketplace](./Near/NearMarketPlaceDapp/README.md)
 
 
 .
@@ -23,21 +23,21 @@
 # Index by How-to's
 
 ## How to create and deploy a SC
-- [Hardcore way](https://github.com/ReasonZx/Web3SimpleStorage)
-- [Using brownie](https://github.com/ReasonZx/BrownieSimpleStorage)
+- [Hardcore way](./Ethereum/Web3SimpleStorage/readme.md)
+- [Using brownie](./Ethereum/BrownieSimpleStorage/README.md)
 ## How to interact with a self-deployed SC
-- [Fund me Eth - scripts folder](https://github.com/ReasonZx/FundMeEth)
+- [Fund me Eth - scripts folder](./Ethereum/FundMeEth/README.md)
 ## How to create a mainnet fork
-- [Lottery ReadMe.md](https://github.com/ReasonZx/Lottery-smart-contract.git)
+- [Lottery ReadMe.md](./Ethereum/LotterySmartContract/README.md)
 ## How to create a custom ERC-20
-- [Erc-20](https://github.com/ReasonZx/erc20.git)
+- [Erc-20](./Ethereum/erc20/ReadMe.md)
 ## How to get a random number
-- [Lottery (use vrfCoordinator)](https://github.com/ReasonZx/Lottery-smart-contract.git)
+- [Lottery (use vrfCoordinator)](./Ethereum/LotterySmartContract/README.md)
 ## How to interact with an existing SC (through interfaces)
-- [Weth SC](https://github.com/ReasonZx/aave-interactions)
+- [Weth SC](./Ethereum/aave-defi/README.md)
 ## How to create NFTs
-- [simpleNFT](https://github.com/ReasonZx/nfts)
+- [simpleNFT](./Ethereum/nfts/README.md)
 ## How to store data in a decentralized way
-- [advancedNFT](https://github.com/ReasonZx/nfts)
+- [advancedNFT](./Ethereum/nfts/README.md)
 
   
