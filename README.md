@@ -8,6 +8,7 @@
 - [Erc-20](./Ethereum/erc20/ReadMe.md)
 - [Defi (aave)](./Ethereum/aave-defi/README.md)
 - [NFTs](./Ethereum/nfts/README.md)
+- [upgradeSC](./Ethereum/upgradeSC/README.md)
 
 ## - Near blockchain
 - [Near Marketplace](./Near/NearMarketPlaceDapp/README.md)
@@ -39,5 +40,7 @@
 - [simpleNFT](./Ethereum/nfts/README.md)
 ## How to store data in a decentralized way
 - [advancedNFT](./Ethereum/nfts/README.md)
+## How to create upgradeable Smart Contracts
+- [upgradeSC](./Ethereum/upgradeSC/README.md)
 
   
