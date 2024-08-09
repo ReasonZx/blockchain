@@ -53,3 +53,6 @@
 	path = Ethereum/fullStackDapp
 	url = https://github.com/ReasonZx/fullStackDapp.git
 	branch = main
+[submodule "Ethereum/foundry"]
+	path = Ethereum/foundry
+	url = https://github.com/ReasonZx/foundry.git
