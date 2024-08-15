@@ -24,24 +24,24 @@
 
 # Index by How-to's
 
-## How to create and deploy a SC
+### How to create and deploy a SC
 - [Hardcore way](./Ethereum/Web3SimpleStorage/readme.md)
 - [Using brownie](./Ethereum/BrownieSimpleStorage/README.md)
-## How to interact with a self-deployed SC
+### How to interact with a self-deployed SC
 - [Fund me Eth - scripts folder](./Ethereum/FundMeEth/README.md)
-## How to create a mainnet fork
+### How to create a mainnet fork
 - [Lottery ReadMe.md](./Ethereum/LotterySmartContract/README.md)
-## How to create a custom ERC-20
+### How to create a custom ERC-20
 - [Erc-20](./Ethereum/erc20/ReadMe.md)
-## How to get a random number
+### How to get a random number
 - [Lottery (use vrfCoordinator)](./Ethereum/LotterySmartContract/README.md)
-## How to interact with an existing SC (through interfaces)
+### How to interact with an existing SC (through interfaces)
 - [Weth SC](./Ethereum/aave-defi/README.md)
-## How to create NFTs
+### How to create NFTs
 - [simpleNFT](./Ethereum/nfts/README.md)
-## How to store data in a decentralized way
+### How to store data in a decentralized way
 - [advancedNFT](./Ethereum/nfts/README.md)
-## How to create upgradeable Smart Contracts
+### How to create upgradeable Smart Contracts
 - [upgradeSC](./Ethereum/upgradeSC/README.md)
-## How to setup a foundry project
+### How to setup a foundry project
 - [Foundry](./Ethereum/foundry/README.md)
