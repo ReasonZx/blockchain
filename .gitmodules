@@ -56,3 +56,6 @@
 [submodule "Ethereum/foundry"]
 	path = Ethereum/foundry
 	url = https://github.com/ReasonZx/foundry.git
+[submodule "Ethereum/basicFrontEnd"]
+	path = Ethereum/basicFrontEnd
+	url = https://github.com/ReasonZx/basicFrontEnd.git
