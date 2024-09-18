@@ -14,6 +14,8 @@
 ## - Near blockchain
 - [Near Marketplace](./Near/NearMarketPlaceDapp/README.md)
 
+## - Web3 general Notes
+- [Notes](./web3notes/README.md)
 
 .
 
@@ -45,3 +47,9 @@
 - [upgradeSC](./Ethereum/upgradeSC/README.md)
 ### How to setup a foundry project
 - [Foundry](./Ethereum/foundry/README.md)
+### How the layout of SC should look like
+- [Notes](./web3notes/README.md)
+### How to create a simple frontend
+- Add basicFrontEnd repo
+### How to emit events
+- Hopefully add last project
